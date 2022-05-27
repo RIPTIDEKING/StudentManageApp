@@ -1,9 +1,10 @@
+
+## StudentManageApp
+
 Student Manager is a web Application to manage all the students Information in a College. The Front-end of this application is made in Angular.
 The backend is made in Java using Spring Framework. One can perform all the basic CRUD operations in this Application.
 
-Below are some basic Commands to use Angular
-
-v# StudentManageApp
+Below are some basic Commands to use Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
